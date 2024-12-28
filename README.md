@@ -12,7 +12,7 @@ I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new
 * Cloud Pltforms: Azure
 * Tools: Version Control(Git), VS Code, Google Colab, Pycharm
 
-![Pyhton](https://imgcdn.stablediffusionweb.com/2024/10/8/4d96a4cd-90d1-4053-9b9b-aa3d03ba158a.jpg)
+![Pyhton](https://imgcdn.stablediffusionweb.com/2024/10/8/4d96a4cd-90d1-4053-9b9b-aa3d03ba158a.jpg alt="Python" width="30" height="30")
 
 
 
