@@ -12,7 +12,7 @@ I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new
 * Cloud Pltforms: Azure
 * Tools: Version Control(Git), VS Code, Google Colab, Pycharm
 
-<img src="https://imgcdn.stablediffusionweb.com/2024/10/8/4d96a4cd-90d1-4053-9b9b-aa3d03ba158a.jpg" alt="Python" width="50" height="50">_<img ssrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwA_C8IMoGCxQT08vN56dC7wO48mKy9j69qg&s" alt="TensorFlow" width="50" height="50">
+<img src="https://imgcdn.stablediffusionweb.com/2024/10/8/4d96a4cd-90d1-4053-9b9b-aa3d03ba158a.jpg" alt="Python" width="50" height="50">_<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" alt="TensorFlow" width="50" height="50">
 
 
 
