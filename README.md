@@ -1,5 +1,6 @@
 ## Hi there 👋
-![My GIF]("C:\Users\HP\Downloads\My GIF.gif")
+![My GIF](C:/Users/HP/Downloads/My GIF.gif)
+
 I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new technologies and build innovative solutions.
 
 # Contact
