@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My GIF](C:/Users/HP/Downloads/My GIF.gif)
+![My GIF](https://github.com/aniketpund1807/aniket/blob/main/My%20GIF.gif)
 
 I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new technologies and build innovative solutions.
 
