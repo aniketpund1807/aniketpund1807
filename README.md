@@ -19,6 +19,7 @@ I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="70" height="70">
 <img src="https://logowik.com/content/uploads/images/databricks6383.jpg" alt="Databricks" width="70" height="70">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyzxULWngfNdWmVeMR7M3qFg5qSbJIadBDg&s" alt="AI" width="70" height="70">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogohistory.net%2Fpower-bi-logo%2F&psig=AOvVaw1Zm-DgVeTFBdPAKgKbuGSq&ust=1736395855551000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDo0uyg5YoDFQAAAAAdAAAAABAE" alt="PowerBI" width="70" height="70">
 
 
 
