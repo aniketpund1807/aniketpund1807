@@ -19,7 +19,7 @@ I am Data Scientist and Machine Learning Engineer. I'm always eager to learn new
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="70" height="70">
 <img src="https://logowik.com/content/uploads/images/databricks6383.jpg" alt="Databricks" width="70" height="70">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyzxULWngfNdWmVeMR7M3qFg5qSbJIadBDg&s" alt="AI" width="70" height="70">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogohistory.net%2Fpower-bi-logo%2F&psig=AOvVaw1Zm-DgVeTFBdPAKgKbuGSq&ust=1736395855551000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDo0uyg5YoDFQAAAAAdAAAAABAE" alt="PowerBI" width="70" height="70">
+<img src="https://www.google.com/imgres?q=microsoft%20power%20bi%20logo%20&imgurl=https%3A%2F%2Fwww.advancedexcel.net%2Fpower-bi%2Fimages%2Fpower-bi-hero.jpg&imgrefurl=https%3A%2F%2Fwww.advancedexcel.net%2Fmicrosoft-power-bi-training%2F&docid=ZKv7APxuQWcjoM&tbnid=bMmYsSc8U4WBwM&vet=12ahUKEwizh_KSoeWKAxWum68BHc2AHFoQM3oECF0QAA..i&w=1860&h=1080&hcb=2&ved=2ahUKEwizh_KSoeWKAxWum68BHc2AHFoQM3oECF0QAA" alt="PowerBI" width="70" height="70">
 
 
 
